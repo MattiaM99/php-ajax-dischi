@@ -1,0 +1,15 @@
+.albums{
+  flex-wrap: wrap;
+  height: 100vh;
+  align-items: center;
+  margin: 25px 0;
+}
+.album{
+  text-align: center;
+}
+
+.album img{
+  width: 250px;
+  height: 250px;
+  margin: 0 5px;
+}
